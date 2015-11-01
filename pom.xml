@@ -4,7 +4,7 @@
 
     <groupId>com.axelfontaine.blog</groupId>
     <artifactId>final-nail</artifactId>
-    <version>0-SNAPSHOT</version>
+    <version>0.1</version>
     <packaging>jar</packaging>
 
     <name>${project.artifactId}</name>
@@ -14,7 +14,7 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/axelfontaine/final-nail.git</connection>
+        <connection>scm:git:https://github.com/bn3t/final-nail.git</connection>
     </scm>
 
     <distributionManagement>
